@@ -20,3 +20,5 @@ include
 lib
 lib64
 src/*.egg-info
+/.settings/
+/nbproject/private/
